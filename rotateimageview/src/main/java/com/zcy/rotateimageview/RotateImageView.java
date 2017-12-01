@@ -23,7 +23,7 @@ import android.widget.ImageView;
  * 自带旋转动画的ImageView
  * 动画的实现不借助原生动画
  * 而是通过旋转画布来实现
- * <p>
+ *
  * Created by zcy on 2017/11/30.
  */
 

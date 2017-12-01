@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/RotateImageViewTest.iml" filepath="$PROJECT_DIR$/RotateImageViewTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RotateImageView.iml" filepath="$PROJECT_DIR$/RotateImageView.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/rotateimageview/rotateimageview.iml" filepath="$PROJECT_DIR$/rotateimageview/rotateimageview.iml" />
     </modules>
