@@ -21,8 +21,8 @@
 ## 引入
 ```
 
-        UbicAI.init(config, this);
-        BaiduTTSPlayer ttsPlayer = new BaiduTTSPlayer.Builder(getApplicationContext())
+       UbicAI.init(config, this);
+       BaiduTTSPlayer ttsPlayer = new BaiduTTSPlayer.Builder(getApplicationContext())
                 .ttsMode(TtsMode.MIX)
                 .offlineVoice(OfflineResource.VOICE_FEMALE)
                 .build();
